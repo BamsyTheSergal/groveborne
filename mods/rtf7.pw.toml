@@ -1,0 +1,8 @@
+name = "rtf7"
+filename = "RTF7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/BamsyTheSergal/groveborne/raw/refs/heads/main/RTF7.jar"
+hash-format = "sha256"
+hash = "57e8dfbaaec7c098e4166ccb4a4f0d59a133aebbf1bb98605f8881460daa6602"

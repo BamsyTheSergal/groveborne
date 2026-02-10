@@ -1,13 +1,13 @@
 name = "Moog's Structure Lib"
-filename = "moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar"
+filename = "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1oUDhxuy/versions/eLc1VOVD/moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar"
+url = "https://cdn.modrinth.com/data/1oUDhxuy/versions/xtqWb6du/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar"
 hash-format = "sha512"
-hash = "0efea713d2e75ac6fbe11165b19f0e79fe0bae60edcf865e2c61db56283aecdecd4db37ec784c4941d871c5edfbb588c0344301b7cf4124a9a603d55341ace4c"
+hash = "02723c0c03240c9a660c45168e89519daa8d251fcb5bcaff416a4cc2dd70da0525165edcc92a9ef0ffcfce198dcfe4dc4a523b9fc87f6655e8ff5d5cc07e7e05"
 
 [update]
 [update.modrinth]
 mod-id = "1oUDhxuy"
-version = "eLc1VOVD"
+version = "xtqWb6du"

@@ -1,13 +1,13 @@
 name = "Saturation Plus"
-filename = "saturation_plus-1.1.0-forge-1.20.jar"
+filename = "saturation_plus-1.2.0-forge-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AgApeolo/versions/9kiFQPiy/saturation_plus-1.1.0-forge-1.20.jar"
+url = "https://cdn.modrinth.com/data/AgApeolo/versions/j3qrtkNJ/saturation_plus-1.2.0-forge-1.20.jar"
 hash-format = "sha512"
-hash = "cab94cecfc7f22075f0a32e52128241a03cf7d11febb300c9e1129990db1769285194b0dbd08a15b705b995c17acc71dcaded057fe5a3fe43b48a2dd1ec487c2"
+hash = "ad278587b240863cd153b26b1ed1485e2da86740481baa1ebe0e84a7839e9b775f0655d779440bf717337a2cd046222cd778588731bbec3f403fe65b3cd9f721"
 
 [update]
 [update.modrinth]
 mod-id = "AgApeolo"
-version = "9kiFQPiy"
+version = "j3qrtkNJ"

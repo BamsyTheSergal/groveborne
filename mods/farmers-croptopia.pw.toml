@@ -1,13 +1,13 @@
 name = "Farmer's (Delight) Croptopia"
-filename = "farmers_croptopia-1.20.1-3.0.0.jar"
+filename = "farmers_croptopia-1.20.1-3.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nyIn6Lmk/versions/qFSlhsTF/farmers_croptopia-1.20.1-3.0.0.jar"
+url = "https://cdn.modrinth.com/data/nyIn6Lmk/versions/UUo9fi9t/farmers_croptopia-1.20.1-3.2.0.jar"
 hash-format = "sha512"
-hash = "99d0c35d422bd2401cfcbba751ac4bf09bd82c7c9df01e52943d14b8200da3e2367b52bdb087380262169200229f147b78bf96925fcf5ff5a578a71214c27126"
+hash = "9d19bdf59606b0cfe3d90f0fe736983f647911daa617f8887d740b42061cc8e96a73d31026a7d5adbf32a812adaf9495000bbcce4056fe25f29ac61468c0a22f"
 
 [update]
 [update.modrinth]
 mod-id = "nyIn6Lmk"
-version = "qFSlhsTF"
+version = "UUo9fi9t"
