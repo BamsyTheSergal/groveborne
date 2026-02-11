@@ -1,0 +1,13 @@
+name = "Mekanism Pipez Fix"
+filename = "mekpipezfix-1.20.1-1.0.0-all.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TXcBL9V3/versions/fulgQfPF/mekpipezfix-1.20.1-1.0.0-all.jar"
+hash-format = "sha512"
+hash = "abe912f49f928848594a58f18b0c2871511119d54065b6840274d069b88b87008fd4e33bc7958ad7b06c52a1bb759844e317f712d08280fb6f6c19a91daf5eb7"
+
+[update]
+[update.modrinth]
+mod-id = "TXcBL9V3"
+version = "fulgQfPF"

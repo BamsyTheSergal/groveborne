@@ -3,11 +3,11 @@ filename = "pipez-forge-1.20.1-1.2.26.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c32e2fff406f1e8ee6b0689eca257f6bc28e4c7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/Mtjt7u5h/pipez-forge-1.20.1-1.2.26.jar"
+hash-format = "sha512"
+hash = "2479a23c75bbb93e9f3056d9173aeec1882a389cef89ed954f6cdd2e3b4d53ccc7ed7edd51e671499896818eccd873be8c9f686452d14f26593425c20b93b0fb"
 
 [update]
-[update.curseforge]
-file-id = 6945379
-project-id = 443900
+[update.modrinth]
+mod-id = "iRmWy6ga"
+version = "Mtjt7u5h"

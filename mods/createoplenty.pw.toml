@@ -1,0 +1,13 @@
+name = "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)"
+filename = "CreateOPlenty-Create+6.0.7-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HgWaxodv/versions/RmbrAxge/CreateOPlenty-Create%2B6.0.7-3.0.jar"
+hash-format = "sha512"
+hash = "ba9b1facce905e2829d4d869f0ca573947a7c5311a8907a3f39e07cb3b7e5d75c58ce2ce5a461be4a294135925a37dcb2cc68fe3c964104a14604d679fcb2bfb"
+
+[update]
+[update.modrinth]
+mod-id = "HgWaxodv"
+version = "RmbrAxge"
