@@ -247,8 +247,8 @@ hash = "3c7aa1e213def089a6eaa89a8c4c51eade5ae89e1a674c03181a46690c340764"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "63f2413981be629df9c32e5549e06cf097078bf8ce0bd8c3bfe16de7ca0a18c2"
+file = "mods/create-track-map-fork.pw.toml"
+hash = "c9b05f069994f0018f20c38b0529bb342e1153f8936c0d3eb3626a1a76e35aaf"
 metafile = true
 
 [[files]]
