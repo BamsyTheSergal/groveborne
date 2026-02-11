@@ -387,6 +387,11 @@ hash = "005b90b699cbbf46d01cc7af36d30ef04b80c10f43337d01186a59cae11401ad"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "f3f7be7bc93fb265b44c8d18b072b026dd32c05d7ecdf8bd5d5f0a74c6794d4b"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
@@ -439,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "adcd67c419f4c88858298958287b1658e9a81b7d50c6794769ca01c8b856d3a6"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "9b7faf3aa2a5e4f6579687ff4cdee7b46a5b6f740b0ad02c1f4c135d666cdff5"
 metafile = true
 
 [[files]]
@@ -934,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "32aab2432d9c1b04d25e8e6e5d585e45b8f1c78446c5d894954932e9642e79b2"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
 metafile = true
 
 [[files]]
