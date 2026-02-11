@@ -87,6 +87,11 @@ hash = "41e47439205cca3863674b3d2bca83f1bf118a2530cd2e4f1c07ba725bd33ab0"
 metafile = true
 
 [[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "724fe40135f0ed7f2614cd14116706686df7b092052af048dfbd109dad0c6863"
 metafile = true
