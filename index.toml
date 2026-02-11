@@ -792,6 +792,11 @@ hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
@@ -929,11 +934,6 @@ metafile = true
 [[files]]
 file = "mods/roadarchitect.pw.toml"
 hash = "0e621917677a52dd4a4406c3c4e04820600cfe91ad51a9c5ca1dce968c481c59"
-metafile = true
-
-[[files]]
-file = "mods/rtf7.pw.toml"
-hash = "97add1be81fd620edafe5eff580d1d2915bdccdfde63b5f6136538113c9223e6"
 metafile = true
 
 [[files]]
