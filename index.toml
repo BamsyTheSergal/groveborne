@@ -957,11 +957,6 @@ hash = "3a19409a01292e0cc4d0c29b1b5780b6429c2facdc2296696d3dd15c0e1a2898"
 metafile = true
 
 [[files]]
-file = "mods/scorched-guns-2-flintlocks.pw.toml"
-hash = "f5111912fd5d7c4163d7aad86441be146ab13203cf666d083b1a98cea19a46c6"
-metafile = true
-
-[[files]]
 file = "mods/scorched-guns-2.pw.toml"
 hash = "769804002549d77e0443d098efbb46cc6e4c85f77981a775e707465519cbfe13"
 metafile = true
