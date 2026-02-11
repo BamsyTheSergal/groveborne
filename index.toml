@@ -257,6 +257,11 @@ hash = "e1e7a331f6f40bf4fc4a2610b123454847b5425c05072b3ee1e8078821385d70"
 metafile = true
 
 [[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "6bf15f6d63c807360897f7b592c0047d7d997975c4b9ab42449a9819f17df4eb"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
@@ -503,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
 
 [[files]]
@@ -529,6 +534,11 @@ metafile = true
 [[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "00b99c6e27a898bd4032cf5e20b08e8b6c807c194d846f999aa6c4babb829cee"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "8a7be360d49758adbb72452dbe0b2fd12196db9c790d6e343c7a01da031ca2f0"
 metafile = true
 
 [[files]]
@@ -862,6 +872,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
@@ -882,8 +897,13 @@ hash = "b48663b752db1506be55502b1dc79d1c32ece6a407803f37c853ef3574c2bbfc"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "24e203f4cadbbbda2d3641ff33e60e2de7f1ef8d8130b6a69e18cedd9f89ae89"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "3507a798ca073f13738081778f513b23b244875b138b49747525d691aaf021bc"
+hash = "32aab2432d9c1b04d25e8e6e5d585e45b8f1c78446c5d894954932e9642e79b2"
 metafile = true
 
 [[files]]
