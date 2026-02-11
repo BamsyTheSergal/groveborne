@@ -127,6 +127,11 @@ hash = "91cf4310ea06a502b6e135af700ed721fc517379f8a14ca474ffdb95cbbf9397"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
@@ -612,6 +617,11 @@ hash = "3b4ac389739df58913e093835e1e91b20e2a18e5051b7564a2795f354c54f761"
 metafile = true
 
 [[files]]
+file = "mods/laserio.pw.toml"
+hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
 file = "mods/leashable-collars.pw.toml"
 hash = "29f073231de93f994fdbbfc2c75e9c99b06046200a2f78725918949709fece3f"
 metafile = true
@@ -729,6 +739,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
+metafile = true
+
+[[files]]
+file = "mods/mining-gadgets.pw.toml"
+hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
 metafile = true
 
 [[files]]
