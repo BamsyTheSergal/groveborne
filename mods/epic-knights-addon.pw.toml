@@ -1,0 +1,13 @@
+name = "Epic Knights: Addon"
+filename = "epic-knights-addon-1.20.x-forge-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/txMuoRai/versions/vO3lOYOO/epic-knights-addon-1.20.x-forge-2.5.jar"
+hash-format = "sha512"
+hash = "13870784fd82aaee696ff8f15acb6625a5a6e373576786be7aaedb354b8a42812e015b00b4f1e876169ee6a44a08afe21373489759d12c1241709f6c1ed95939"
+
+[update]
+[update.modrinth]
+mod-id = "txMuoRai"
+version = "vO3lOYOO"

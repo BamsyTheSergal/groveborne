@@ -427,6 +427,26 @@ hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-addon.pw.toml"
+hash = "bee78e9a2b96bfe658d6315d28c8fd680c3478c9df2de819263c7bd79f09d681"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-antique-legacy.pw.toml"
+hash = "b2d82d1686ac357e1e2f41fe4d25696303aa80782a0463256c5cb254b3d80100"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "d7f7667007c9bfec79272a392b5a4dd60fd96c8d93c165b529fa0d3c99cb5d03"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-slavic-armory.pw.toml"
+hash = "417dbfc7b1b9c7700fe27c5562f0e208ccc68b22aad1719fe163bf51f23e7465"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "158467a392875eef3c1eb6cf164c407ec872d6f2f169566e2ca88eadef0764d7"
 metafile = true
@@ -1192,6 +1212,11 @@ hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "0fa419f90043ccf4f2e65d69b5623e8984b1cd9e75cad074fec65478cd0e4440"
 metafile = true
@@ -1227,8 +1252,18 @@ hash = "9f2c16f52891ba7d1442115421baaedc93a0bff1b7288311a8ac4a48cdf6f180"
 metafile = true
 
 [[files]]
+file = "mods/vampirism.pw.toml"
+hash = "83182dcb7e4463e5e2ceefa544e3a6d0b427e4637d5bef613a632bed39731c0d"
+metafile = true
+
+[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "799229feb47978d04a54ac6a7bfdabe7d7fb80373dc5548f6b31278fbeba4e47"
+metafile = true
+
+[[files]]
+file = "mods/werewolves.pw.toml"
+hash = "2f13dc11c0d7bd59bed4a50874668d6e60c4de6c3be467416e01af652cb5a011"
 metafile = true
 
 [[files]]

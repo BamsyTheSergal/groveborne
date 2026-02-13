@@ -1,0 +1,13 @@
+name = "Epic Knights: Antique Legacy"
+filename = "[1.20.x-forge]-Epic-Knights-Antique-Legacy-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xODj7fc3/versions/LM6Y9v8q/%5B1.20.x-forge%5D-Epic-Knights-Antique-Legacy-1.8.jar"
+hash-format = "sha512"
+hash = "bcd9261da8927b4c51c1db45a270a2bc1e1c47f5e8597f6b8f3a8655b78edba20ce5aa7c38cdab23dc3c2528706a46c0df6e78e9ab6a59e59a70cf7920af743a"
+
+[update]
+[update.modrinth]
+mod-id = "xODj7fc3"
+version = "LM6Y9v8q"
