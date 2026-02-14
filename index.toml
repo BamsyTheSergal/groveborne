@@ -1062,6 +1062,11 @@ hash = "3e2d7a46dc4d6a3eb0679c64588b31c217a4ed35b661de2a70e7cf979f2342e4"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "8afe4235723b1d90c132d811402640759449c73173f4535090487966fa912d31"
 metafile = true
