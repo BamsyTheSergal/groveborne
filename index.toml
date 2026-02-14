@@ -142,11 +142,6 @@ hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
 
 [[files]]
-file = "mods/butchery-alexs-mobs-addon.pw.toml"
-hash = "15eab4b32b005f93c9afa1907f5584682e401fb772d703a26528cf7332ddbbab"
-metafile = true
-
-[[files]]
 file = "mods/butchery.pw.toml"
 hash = "f39ab089f1be3ba38508f718e77324d2fdb5f4e33060f276709ea60cd618eb17"
 metafile = true
@@ -994,11 +989,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
-metafile = true
-
-[[files]]
-file = "mods/roadarchitect.pw.toml"
-hash = "0e621917677a52dd4a4406c3c4e04820600cfe91ad51a9c5ca1dce968c481c59"
 metafile = true
 
 [[files]]
