@@ -1037,6 +1037,11 @@ hash = "8e5cf07727b19229d2730aa146a297a1bee544a1f28691c2a5f2b50ccb0e3438"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "1480f2d11e75313bc29fc22bea862cc3b04b55e38cb417bb735582fd259a1881"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "f49c7302f7a044aae67740fac3a7558ca2f26b3a89a69a3940d516a40e3b75b7"
 metafile = true
@@ -1098,12 +1103,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "40a73f377f8dcf95c0e801bdc69e68bc4a2d29ec0bcf17f4dcb1a78f887021d1"
+hash = "042bedf190bfa3c51606a76c39eff873c772d570d44f0791a4db565d9967ff8b"
 metafile = true
 
 [[files]]
