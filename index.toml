@@ -1152,11 +1152,6 @@ hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
-file = "mods/timber-frames.pw.toml"
-hash = "84fa42ecb92ec27a17cd105e82be258b6bc5c0ec87704c0e426ce059e1749726"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-battle-spades.pw.toml"
 hash = "ca0362ad8582edbbd3700e7a1928589617169d9d0976d09af9ed0a6484bc15c0"
 metafile = true
