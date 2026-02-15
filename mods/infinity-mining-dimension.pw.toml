@@ -1,0 +1,13 @@
+name = "Infinity Mining Dimension"
+filename = "Infinity-Mining-Dimension-3.0.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "252d8a21b0c11c63f239306009897f1aa7ccad56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5174948
+project-id = 924659

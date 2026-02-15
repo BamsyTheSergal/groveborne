@@ -17,13 +17,13 @@ file = "kubejs/config/defaultoptions.txt"
 hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
-file = "mods/addonslib.pw.toml"
-hash = "1e37b70e5697c834a09fbfb4ed66774884292708de5012015f1330cb6a9180e9"
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "737249f918b38c404777870f680c98914c62d119773b6b2d88c2d767f9dea06e"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+file = "mods/addonslib.pw.toml"
+hash = "1e37b70e5697c834a09fbfb4ed66774884292708de5012015f1330cb6a9180e9"
 metafile = true
 
 [[files]]
@@ -302,6 +302,16 @@ hash = "ee45c5b23afc9895909a97c112303fde6bf9d06102f421797b129d32cb3e917a"
 metafile = true
 
 [[files]]
+file = "mods/dawn-of-time.pw.toml"
+hash = "aa36bea2fe9acc3caec71dad93b662e742f935fbf30e888382e31bf180fdd44c"
+metafile = true
+
+[[files]]
+file = "mods/days-in-the-middle-ages.pw.toml"
+hash = "70a1cefd38cdc2c5acfac269deef904d5c38b37829a6d6ddb55dca653b62997a"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "f6f19441deb7a82aba8afe2421758930854518ed7e9e3de56583217227f39bff"
 metafile = true
@@ -533,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "13306fd8dc27c0f5afb60874e6a12fc1b2252ac02e8a89ccc2f046f4898627ff"
+hash = "e4bf02e4f4d64894c96ef07b68762f90c138bb202665bc6b377e000c715f2efd"
 metafile = true
 
 [[files]]
@@ -574,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "d150fa1845c5cd2b017c202e1792a6fe5c5155c34ceb710213370d8d83819924"
+metafile = true
+
+[[files]]
+file = "mods/infinity-mining-dimension.pw.toml"
+hash = "96e4f3508df5718a2f0d488bbbc65bcb10b38014b5d760be66f3f17da6a99c9e"
 metafile = true
 
 [[files]]
@@ -739,6 +754,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
+metafile = true
+
+[[files]]
+file = "mods/medieval-paintings.pw.toml"
+hash = "40576231f78702615e914e7d357fcc6cf6e7607d18dd7366bba9061e6442c50e"
 metafile = true
 
 [[files]]
@@ -997,8 +1017,8 @@ hash = "3a19409a01292e0cc4d0c29b1b5780b6429c2facdc2296696d3dd15c0e1a2898"
 metafile = true
 
 [[files]]
-file = "mods/scorched-guns-2.pw.toml"
-hash = "41e909363a2b565605b23ea883582c986f3dda6732eb214bae4045ead34aedb9"
+file = "mods/scalable-cats-force.pw.toml"
+hash = "ef695ed57ccacb432666fdfa3672131e4d48eb0d84ee88b6bffd59c5f59f46ce"
 metafile = true
 
 [[files]]
