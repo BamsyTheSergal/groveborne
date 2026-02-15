@@ -587,11 +587,6 @@ hash = "d150fa1845c5cd2b017c202e1792a6fe5c5155c34ceb710213370d8d83819924"
 metafile = true
 
 [[files]]
-file = "mods/infinity-mining-dimension.pw.toml"
-hash = "96e4f3508df5718a2f0d488bbbc65bcb10b38014b5d760be66f3f17da6a99c9e"
-metafile = true
-
-[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "00b99c6e27a898bd4032cf5e20b08e8b6c807c194d846f999aa6c4babb829cee"
 metafile = true
