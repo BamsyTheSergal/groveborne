@@ -1,0 +1,13 @@
+name = "Unusual Spawning"
+filename = "unusual_spawning-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrxGSSqe/versions/3aqp5d7I/unusual_spawning-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "65c7fb637b73e3ae3f67ac2c1905aeeff185c31716b7191bec64d6a31c6417b423da2464c2b517d5dcd6367a40659b7e471a9ea0957bbfb6c9af9c7763808775"
+
+[update]
+[update.modrinth]
+mod-id = "ZrxGSSqe"
+version = "3aqp5d7I"

@@ -1,0 +1,13 @@
+name = "Visual Recipe Editor"
+filename = "visual_recipe_editor-1.1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bgb7Uocy/versions/wcfheUTF/visual_recipe_editor-1.1.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "38d1dbfbf280cac06a51ff669a8162e0b06a4d2aa73fa4c8aa9fa753d49deca8ee703f5ed007430c1862a8c30640de658740391b87011ded0b55bc98e6a9049c"
+
+[update]
+[update.modrinth]
+mod-id = "Bgb7Uocy"
+version = "wcfheUTF"

@@ -577,6 +577,11 @@ hash = "4e9a8e9192b8a65bbb1dbb50b2b8bf51cc09c6d8be2bc75a3430b5695c1fa399"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "4dc83c085535269866b53b97a8482f4cb6badb0ab58f27a3be20132f69b0147f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
@@ -1217,11 +1222,6 @@ hash = "617c3826da371beb3deffff103df1d1dc1177316fe32988297037f06e8c07397"
 metafile = true
 
 [[files]]
-file = "mods/too-fast.pw.toml"
-hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
-metafile = true
-
-[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
@@ -1247,6 +1247,16 @@ hash = "231e9ce2be39e75b040f4fcd8ae12c8aabb897dacad0a589ee1f12f014b6e02e"
 metafile = true
 
 [[files]]
+file = "mods/unusual-prehistory-2.pw.toml"
+hash = "7e6b1df8888d10cf42625abce8dc3c0c9a0ee856eaf9ea30ff73e29f4ae6e170"
+metafile = true
+
+[[files]]
+file = "mods/unusual-spawning.pw.toml"
+hash = "5114d80e201bd647df546e2e3282aaa54a422a1715b8a4dbf38cf57bfede7239"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "80defc01fee35be2d07c6c26ad0767b98eb1eff33e8b61c3fd152412e5ab3606"
 metafile = true
@@ -1269,6 +1279,11 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "799229feb47978d04a54ac6a7bfdabe7d7fb80373dc5548f6b31278fbeba4e47"
+metafile = true
+
+[[files]]
+file = "mods/visual-recipe-editor.pw.toml"
+hash = "b41d4733e46ff60a8e76c516f1dd66bafc52d23e595430a947eeb6a875561753"
 metafile = true
 
 [[files]]
