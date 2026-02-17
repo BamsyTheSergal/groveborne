@@ -202,6 +202,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c95b3c212988a337532ce201be4d96b906b8d74c831dd6314566183fcfc77c08"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
 metafile = true
