@@ -13,8 +13,24 @@ file = "defaultconfigs/dynamictrees-server.toml"
 hash = "26d3b38c5c9f511e2333598ff20b11b6bdfed98dfa4e43f34c3d60f119844b9e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/arcane_essence_ore.png"
+hash = "238fee72fe88a701e7d540e7bb72d9be5fd62d3cf8ecd4a6b30a5c76daa8ef9d"
+
+[[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
+
+[[files]]
+file = "kubejs/data/arcane essence ore.zip"
+hash = "affcd27306aeadb109408bf15f0ef93b7186d46058039bbc5f8f53cddcce1907"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "1c21a0eb38e37febf76f23908c2ed3e270b043484da1f15bffa479a7defeac7b"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "f12ac38e84ddf14df0fea38302ed84c28e7816e73843c588dcc11e745cba5f9a"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
