@@ -1,0 +1,12 @@
+StartupEvents.registry('block', event => {
+  event.create('arcane_essence_ore')
+    .displayName('Arcane Essence Ore')
+    .soundType('nether_ore')
+    .hardness(1)
+    .resistance(1)
+    .tagBlock('forge:ores/arcane_essence')
+    .requiresTool(true)
+    .tagBlock('forge:ores')
+    .tagBlock('minecraft:mineable/pickaxe')
+    .tagBlock('minecraft:needs_iron_tool')
+})
