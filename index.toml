@@ -17,6 +17,10 @@ file = "kubejs/assets/kubejs/textures/block/arcane_essence_ore.png"
 hash = "238fee72fe88a701e7d540e7bb72d9be5fd62d3cf8ecd4a6b30a5c76daa8ef9d"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/arcane_shard.png"
+hash = "d2878c39e162a0c618bfaa0d9fd4c7f3cc159d60aadbd15a2bc3791022ecfc67"
+
+[[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
@@ -26,11 +30,11 @@ hash = "8d281d6c8cbaa7f424e3300bf984e73aa1bb04dcb1a0d40377467a40dc3733d2"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "1c21a0eb38e37febf76f23908c2ed3e270b043484da1f15bffa479a7defeac7b"
+hash = "63661c12b95f1b556f7c3fb6d2291110cb39361aa10ff241451a6c29fb43ecfb"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "f12ac38e84ddf14df0fea38302ed84c28e7816e73843c588dcc11e745cba5f9a"
+hash = "d7db995ee549538fd6f3c702ade9326b9ee321bbf2191a3d63583f7d11fbc961"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
@@ -720,6 +724,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "713685d5c4c72d8bd46e314ea164b9f9a6a368dedf71398b2246142e2ed66c1f"
 metafile = true
 
 [[files]]

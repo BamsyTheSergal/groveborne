@@ -10,3 +10,12 @@ StartupEvents.registry('block', event => {
     .tagBlock('minecraft:mineable/pickaxe')
     .tagBlock('minecraft:needs_iron_tool')
 })
+
+StartupEvents.registry('item', event => {
+  event.create('arcane_shard')
+  .displayName('Arcane Shard')
+  .tooltip('This is a shard, seems it needs to be processed further...')
+  .rarity('rare')
+  .glow(true)
+  .maxStackSize(64)
+})
