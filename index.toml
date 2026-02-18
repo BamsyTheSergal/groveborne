@@ -22,7 +22,7 @@ hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
 file = "kubejs/data/arcane_essence_nether_ore.zip"
-hash = "46f86838c3402fcdf366fb2a263d6b1543d06c22b9233d1c9af6bca67845e33e"
+hash = "bd598ee067a8fce180e5e2512039387838228e926b39f0d4c9e586656812b990"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
