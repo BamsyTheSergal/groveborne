@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "713685d5c4c72d8bd46e314ea164b9f9a6a368dedf71398b2246142e2ed66c1f"
+hash = "3e33e0b6b8e3344678161758972264b069d8dbed72ae2ac3791843aa661bde5b"
 metafile = true
 
 [[files]]
