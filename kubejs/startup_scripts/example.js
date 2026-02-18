@@ -2,7 +2,7 @@ StartupEvents.registry('block', event => {
   event.create('arcane_essence_ore')
     .displayName('Arcane Essence Ore')
     .soundType('nether_ore')
-    .hardness(1)
+    .hardness(4)
     .resistance(1)
     .tagBlock('forge:ores/arcane_essence')
     .requiresTool(true)
