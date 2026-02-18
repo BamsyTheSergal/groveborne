@@ -1,9 +1,12 @@
+Platform.mods.kubejs.name = 'Bamsy'
+
 StartupEvents.registry('block', event => {
   event.create('arcane_essence_ore')
-    .displayName('Arcane Essence Ore')
+    .displayName('Arcane Ore')
+    .tooltip('This is a block of magical energy, seems it needs to be processed further...')
     .soundType('nether_ore')
-    .hardness(4)
-    .resistance(1)
+    .hardness(3)
+    .resistance(2)
     .tagBlock('forge:ores/arcane_essence')
     .requiresTool(true)
     .tagBlock('forge:ores')

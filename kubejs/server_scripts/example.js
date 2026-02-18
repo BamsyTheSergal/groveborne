@@ -57,8 +57,6 @@ ServerEvents.recipes(event => {
   event.shapeless('minecraft:sponge', ['#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material']).id('bamsy:coral_to_sponge');
   event.shapeless('farmersdelight:rich_soil_farmland', ['farmersdelight:rich_soil', '#minecraft:hoes']).id('bamsy:hoe_richsoil_to_richfarmland');
 });
-LootJS.modifiers((event => {
-  event.addBlockLootModifier("kubejs:arcane_essence_ore")
-  .addLoot("kubejs:arcane_shard")
-  .applyOreBonus("minecraft:fortune").setCount(5));
-})
+LootJS.modifiers((event) => {
+  event.addBlockLootModifier("kubejs:arcane_essence_ore").removeLoot("kubejs:arcane_essence_ore").addLoot(LootEntry.of("kubejs:arcane_shard").limitCount([3, 5])).applyOreBonus("minecraft:fortune");
+});
