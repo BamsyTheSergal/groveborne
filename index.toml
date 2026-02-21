@@ -30,11 +30,11 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "0a0e0c8a074b8bcf1c9dd2975297d8f16cf72ba2e783ba3e2078a1d9aa662e68"
+hash = "ce116f7911eaf2c3bb3b18dea67571c1c6ce2fe903dbf2f93b5a5fea22a54e65"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "c8b84b3ff3b0b339af86e60b41eeeb2057649dacb05779c99ad5f4243b3f773b"
+hash = "f676720fd809fa0c26a179c7773a83b73089572192eedb4d86b664bf33d9b9e3"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"

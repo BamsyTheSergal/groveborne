@@ -1,4 +1,4 @@
-Platform.mods.kubejs.name = 'Bamsy'
+Platform.mods.kubejs.name = 'Bamsy Mod'
 
 StartupEvents.registry('block', event => {
   event.create('arcane_essence_ore')
