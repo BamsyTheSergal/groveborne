@@ -1,0 +1,13 @@
+name = "Recruits-Medieval Siege Machine mod compat addon"
+filename = "Recruits Siege Compatibility-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S2QXTTBv/versions/GK8ed4wy/Recruits%20Siege%20Compatibility-1.0.0.jar"
+hash-format = "sha512"
+hash = "203c36096161dab6ba23bd48a6437a76fb53fd33be0dcb3515a13a6543c68e81687c64ffd35c16b486846104f0808fed2029f7279d82620199684fbc9c6eaa9a"
+
+[update]
+[update.modrinth]
+mod-id = "S2QXTTBv"
+version = "GK8ed4wy"

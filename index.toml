@@ -30,7 +30,7 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "c123000e8cf0f9646c8b64df3bfb8cb9ecee099e500d54098657f168e1f28bda"
+hash = "0a0e0c8a074b8bcf1c9dd2975297d8f16cf72ba2e783ba3e2078a1d9aa662e68"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
+hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
 metafile = true
 
 [[files]]
@@ -722,6 +722,11 @@ hash = "a4f8a56b5bf05d134b6546f75be3082909a209c6878bd88affe99be464c83c89"
 metafile = true
 
 [[files]]
+file = "mods/little-joys.pw.toml"
+hash = "835c7157631b3715d7a6d326f2f092998ddf550caf23ed368f03d1ef4672b53e"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
@@ -794,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-paintings.pw.toml"
 hash = "40576231f78702615e914e7d357fcc6cf6e7607d18dd7366bba9061e6442c50e"
+metafile = true
+
+[[files]]
+file = "mods/medieval-siege-machines.pw.toml"
+hash = "8f8597afd3d129561c00996d8960e035fc297b717c4a3858b65595e17c9c98a1"
 metafile = true
 
 [[files]]
@@ -904,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "311e6ff7804f35deac9b3bd48bba8708590f1d8b6648048e7a021b4c5583d3fc"
 metafile = true
 
 [[files]]
@@ -1024,6 +1039,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "32aab2432d9c1b04d25e8e6e5d585e45b8f1c78446c5d894954932e9642e79b2"
+metafile = true
+
+[[files]]
+file = "mods/recruits-medieval-siege-machine-mod-compat-addon.pw.toml"
+hash = "f18f6f3d825c22ee1f438f9f4f563577838f9b50dfd5ea94876a3a4c7732a627"
 metafile = true
 
 [[files]]
@@ -1292,6 +1312,11 @@ hash = "5114d80e201bd647df546e2e3282aaa54a422a1715b8a4dbf38cf57bfede7239"
 metafile = true
 
 [[files]]
+file = "mods/valarian-conquest.pw.toml"
+hash = "d4cc5cd1490206abc49c797be5a6737a1b8cdd126ef0b1961d0caf2bb544d227"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "80defc01fee35be2d07c6c26ad0767b98eb1eff33e8b61c3fd152412e5ab3606"
 metafile = true
@@ -1314,6 +1339,11 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "799229feb47978d04a54ac6a7bfdabe7d7fb80373dc5548f6b31278fbeba4e47"
+metafile = true
+
+[[files]]
+file = "mods/villager-recruits.pw.toml"
+hash = "0296c2e106343e229465d661e562097101bdbc0d72718502e4a3aeb52be4a351"
 metafile = true
 
 [[files]]
