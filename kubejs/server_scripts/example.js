@@ -57,6 +57,25 @@ ServerEvents.recipes(event => {
   event.shapeless('minecraft:sponge', ['#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material']).id('bamsy:coral_to_sponge');
   event.shapeless('farmersdelight:rich_soil_farmland', ['farmersdelight:rich_soil', '#minecraft:hoes']).id('bamsy:hoe_richsoil_to_richfarmland');
 });
+ServerEvents.recipes(event => {
+  event.recipes.createCrushing(
+    [
+      Item.of('irons_spellbooks:arcane_essence').withChance(0.05),
+                               Item.of('irons_spellbooks:arcane_essence').withChance(0.8)
+    ],
+    'kubejs:arcane_shard')
+});
+ServerEvents.recipes(event => {
+  event.recipes.createMixing(
+    Fluid.of('irons_spellbooks:common_ink', 500),
+      [
+      '2x minecraft:copper_ingot',
+      Fluid.of('create_enchantment_industry:ink', 250),
+      Fluid.of('create_wizardry:mana', 250)
+      ]
+  )
+})
+
 LootJS.modifiers((event) => {
   event.addBlockLootModifier("kubejs:arcane_essence_ore").removeLoot("kubejs:arcane_essence_ore").addLoot(LootEntry.of("kubejs:arcane_shard").limitCount([3, 5])).applyOreBonus("minecraft:fortune");
 });
