@@ -17,6 +17,22 @@ file = "kubejs/assets/kubejs/textures/block/arcane_essence_ore.png"
 hash = "238fee72fe88a701e7d540e7bb72d9be5fd62d3cf8ecd4a6b30a5c76daa8ef9d"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/blaze_rod_block.png"
+hash = "1b12e4c257d5d44ab3e023caf62152ca5a1cf7d135b3ddc52f5f64ecdadadb8a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/block_book_down.png"
+hash = "3513d0c44dadf0483ae115f23a2bf1a68e683160f95d99608d4429addf5c5f22"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/block_book_side.png"
+hash = "6d1355217cd9ae70e7cf118b72e899122e21c276fd58b85ef8bba477674d2fe6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/block_book_up.png"
+hash = "495943f85c93321a7526e3e60da80d934b8886d9f6436a640e288d3b2385f613"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/arcane_shard.png"
 hash = "d2878c39e162a0c618bfaa0d9fd4c7f3cc159d60aadbd15a2bc3791022ecfc67"
 
@@ -30,11 +46,11 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "ce116f7911eaf2c3bb3b18dea67571c1c6ce2fe903dbf2f93b5a5fea22a54e65"
+hash = "309d73987ef569f5c5c134aa36414c00aadbb007f42a2ff3e49f923ce0329bed"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "f676720fd809fa0c26a179c7773a83b73089572192eedb4d86b664bf33d9b9e3"
+hash = "72e2d868e9e0697517bf809f36228ab05ba25253ae3edeca0d76bc9480f062c0"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
@@ -1174,6 +1190,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
+metafile = true
+
+[[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "1b6c221637c09bb5ba12839a2d588d54e6ec5b8281066351ec205c3a477571cd"
 metafile = true
 
 [[files]]

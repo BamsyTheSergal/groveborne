@@ -74,7 +74,15 @@ ServerEvents.recipes(event => {
       Fluid.of('create_wizardry:mana', 250)
       ]
   )
-})
+});
+ServerEvents.recipes(event => {
+  event.shapeless('kubejs:blaze_rod_block', ['minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod', 'minecraft:blaze_rod']).id('bamsy:blaze_rods_to_block_bamsy');
+  event.shapeless('9x minecraft:blaze_rod', ['kubejs:blaze_rod_block']).id('bamsy:blaze_block_to_rods_bamsy');
+
+  event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
+  event.shapeless('9x minecraft:blaze_rod', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
+});
+
 
 LootJS.modifiers((event) => {
   event.addBlockLootModifier("kubejs:arcane_essence_ore").removeLoot("kubejs:arcane_essence_ore").addLoot(LootEntry.of("kubejs:arcane_shard").limitCount([3, 5])).applyOreBonus("minecraft:fortune");
