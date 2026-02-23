@@ -20,7 +20,7 @@ StartupEvents.registry('block', event => {
     .tagBlock('forge:ores')
     .tagBlock('minecraft:mineable/pickaxe')
     .tagBlock('minecraft:needs_wood_tool')
-    .tagBlock('#forge:storage_blocks')
+    .tagBlock('forge:storage_blocks')
   event.create('book_block')
     .displayName('Block of Books')
     .texture(Direction.DOWN, 'kubejs:block/block_book_down')
@@ -35,7 +35,7 @@ StartupEvents.registry('block', event => {
     .requiresTool(true)
     .tagBlock('minecraft:mineable/axe')
     .tagBlock('minecraft:needs_wood_tool')
-    .tagBlock('#forge:storage_blocks')
+    .tagBlock('forge:storage_blocks')
 })
 
 

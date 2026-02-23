@@ -50,7 +50,7 @@ hash = "309d73987ef569f5c5c134aa36414c00aadbb007f42a2ff3e49f923ce0329bed"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "58f7287045d86047118a72b2bfcbbf125c9b2d0cf6fe234052662315e5175b7a"
+hash = "e154df311ff522faba50fd7c1621604d68b4c479a1bf35bdc59e8f766ef74df4"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
