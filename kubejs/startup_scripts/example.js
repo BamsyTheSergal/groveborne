@@ -29,6 +29,7 @@ StartupEvents.registry('block', event => {
     .texture(Direction.NORTH, 'kubejs:block/block_book_side')
     .texture(Direction.WEST, 'kubejs:block/block_book_side')
     .texture(Direction.EAST, 'kubejs:block/block_book_side')
+    .texture('particle', 'minecraft:book')
     .soundType('wood')
     .hardness(2)
     .resistance(1)

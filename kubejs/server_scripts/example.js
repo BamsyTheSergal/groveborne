@@ -80,7 +80,7 @@ ServerEvents.recipes(event => {
   event.shapeless('9x minecraft:blaze_rod', ['kubejs:blaze_rod_block']).id('bamsy:blaze_block_to_rods_bamsy');
 
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
-  event.shapeless('9x minecraft:blaze_rod', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
+  event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
 });
 
 
