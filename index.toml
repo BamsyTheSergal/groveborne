@@ -37,6 +37,18 @@ file = "kubejs/assets/kubejs/textures/item/arcane_shard.png"
 hash = "d2878c39e162a0c618bfaa0d9fd4c7f3cc159d60aadbd15a2bc3791022ecfc67"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/bloody_toilet_paper.png"
+hash = "f1e1e25938d823aea10ad5af449c83e6958ddbf7155ff4284a39457b28f9f05a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/slimy_toilet_paper.png"
+hash = "1460b746a0f7be25fc0c58065369b9c94d407b7db003cda991639902d8a95749"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/toilet_paper.png"
+hash = "ae5cd64de6591b5c22fe042d8a116ab7c0b09b8232b1659fa24424465ace8f8d"
+
+[[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
@@ -46,11 +58,11 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "fc3190ab5230b41e72f695fbadfd401da7efe7306477a0e88c849a6f5287b155"
+hash = "6ad30989e8600912c4b27b65a840fcc03cbf75ad7962ee62de43cafbb1c4a943"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "32313326f7ecba639cdebbfed134292920316fd89daf3a68a6b828b48c965769"
+hash = "89347a9348a2219dfe3a9c5b57ac5de3d5df5c187080deb2f3a714289bac39cf"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"

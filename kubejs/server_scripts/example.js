@@ -82,7 +82,11 @@ ServerEvents.recipes(event => {
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
 });
-
+ServerEvents.recipes(event => {
+  event.shaped('64x kubejs:toilet_paper', ['AAA', 'ABA', 'AAA'], { A: 'minecraft:paper', B: '#minecraft:logs' }).id('bamsy:toilet_paper_craft');
+  event.shaped('64x kubejs:bloody_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:redstone', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:bloody_toilet_paper_craft');
+  event.shaped('64x kubejs:slimy_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:slime_ball', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:slimy_toilet_paper_craft');
+});
 
 LootJS.modifiers((event) => {
   event.addBlockLootModifier("kubejs:arcane_essence_ore").removeLoot("kubejs:arcane_essence_ore").addLoot(LootEntry.of("kubejs:arcane_shard").limitCount([3, 5])).applyOreBonus("minecraft:fortune");
