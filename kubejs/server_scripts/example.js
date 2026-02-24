@@ -81,6 +81,7 @@ ServerEvents.recipes(event => {
 
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
+  event.recipes.mekanismSawing('9x minecraft:stick', 'quark:stick_block', item.of('mekanism:sawdust').chance(0.3));
 });
 ServerEvents.recipes(event => {
   event.shaped('64x kubejs:toilet_paper', ['AAA', 'ABA', 'AAA'], { A: 'minecraft:paper', B: '#minecraft:logs' }).id('bamsy:toilet_paper_craft');

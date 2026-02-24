@@ -58,7 +58,7 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "6ad30989e8600912c4b27b65a840fcc03cbf75ad7962ee62de43cafbb1c4a943"
+hash = "f70f797eababb43ec06ec9ce194412a3f89964f3b6e64ba80082d62bff2c6cb3"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -707,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism-unofficial.pw.toml"
+hash = "a195d0ea25a8b006762a5fa1dd097f3acf1a884e0ef567bde11f696e587bd62d"
 metafile = true
 
 [[files]]
