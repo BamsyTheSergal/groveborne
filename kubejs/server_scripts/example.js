@@ -54,6 +54,25 @@ ServerEvents.recipes(event => {
   event.remove({id: 'everycomp:q/dense_dynamictrees/dense_oak_hedge'})
   event.remove({id: 'everycomp:q/dense_dynamictrees/dense_spruce_hedge'})
 
+  event.remove({id: 'valhelsia_furniture:oak_table'})
+  event.remove({id: 'valhelsia_furniture:oak_chair'})
+  event.remove({id: 'valhelsia_furniture:spruce_table'})
+  event.remove({id: 'valhelsia_furniture:spruce_chair'})
+  event.remove({id: 'valhelsia_furniture:birch_table'})
+  event.remove({id: 'valhelsia_furniture:birch_chair'})
+  event.remove({id: 'valhelsia_furniture:darl_oak_table'})
+  event.remove({id: 'valhelsia_furniture:dark_oak_chair'})
+  event.remove({id: 'valhelsia_furniture:jungle_table'})
+  event.remove({id: 'valhelsia_furniture:jungle_chair'})
+  event.remove({id: 'valhelsia_furniture:mangrove_table'})
+  event.remove({id: 'valhelsia_furniture:mangrove_chair'})
+  event.remove({id: 'valhelsia_furniture:acacia_table'})
+  event.remove({id: 'valhelsia_furniture:acacia_chair'})
+  event.remove({id: 'valhelsia_furniture:warped_table'})
+  event.remove({id: 'valhelsia_furniture:warped_chair'})
+  event.remove({id: 'valhelsia_furniture:crimson_table'})
+  event.remove({id: 'valhelsia_furniture:crimson_chair'})
+
   event.shapeless('minecraft:sponge', ['#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material', '#minecraft:sponge_crafting_material']).id('bamsy:coral_to_sponge');
   event.shapeless('farmersdelight:rich_soil_farmland', ['farmersdelight:rich_soil', '#minecraft:hoes']).id('bamsy:hoe_richsoil_to_richfarmland');
 });
@@ -81,12 +100,18 @@ ServerEvents.recipes(event => {
 
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
-  event.recipes.mekanismSawing('9x minecraft:stick', 'quark:stick_block', Item.of('mekanism:sawdust').withChance(0.3));
+
+  event.recipes.mekanismSawing('quark:stick_block', '9x mekanism:sawdust', Item.of('3x mekanism:sawdust').withChance(0.5));
+
+  event.shapeless('kubejs:sawdust_block', ['mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust']).id('bamsy:sawdust_to_sawdust_block_bamsy');
+  event.shapeless('9x mekanism:sawdust', ['kubejs:sawdust_block']).id('bamsy:sawdust_block_to_sawdust_bamsy');
 });
 ServerEvents.recipes(event => {
   event.shaped('64x kubejs:toilet_paper', ['AAA', 'ABA', 'AAA'], { A: 'minecraft:paper', B: '#minecraft:logs' }).id('bamsy:toilet_paper_craft');
   event.shaped('64x kubejs:bloody_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:redstone', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:bloody_toilet_paper_craft');
   event.shaped('64x kubejs:slimy_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:slime_ball', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:slimy_toilet_paper_craft');
+
+  event.recipes.mekanismSawing('quark:stick_block', '9x minecraft:stick', Item.of('3x mekanism:sawdust').withChance(0.25));
 });
 
 LootJS.modifiers((event) => {

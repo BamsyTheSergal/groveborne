@@ -33,6 +33,10 @@ file = "kubejs/assets/kubejs/textures/block/block_book_up.png"
 hash = "495943f85c93321a7526e3e60da80d934b8886d9f6436a640e288d3b2385f613"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/sawdust_block.png"
+hash = "dc276fb238b3efae6c75968d889e88077d0e4ff0f203248647891a1bf28e76a4"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/arcane_shard.png"
 hash = "d2878c39e162a0c618bfaa0d9fd4c7f3cc159d60aadbd15a2bc3791022ecfc67"
 
@@ -58,11 +62,11 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "82716b52f55caf9af6bfdda296d4e2fb8ad7aeea37489942a50dca98e94c5cbf"
+hash = "6d3e6dec93947967d81c2ab7e07255ea6d7ba6991ded89f06959c8a8f91cdd10"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "89347a9348a2219dfe3a9c5b57ac5de3d5df5c187080deb2f3a714289bac39cf"
+hash = "9382994579be0af584f69badff20233d6a73f27c893cc68a56ac7fb5cf88abbf"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
@@ -106,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -716,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
@@ -856,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
 metafile = true
 
 [[files]]

@@ -37,6 +37,16 @@ StartupEvents.registry('block', event => {
     .tagBlock('minecraft:mineable/axe')
     .tagBlock('minecraft:needs_wood_tool')
     .tagBlock('forge:storage_blocks')
+    event.create('sawdust_block')
+    .displayName('Block of sawdust')
+    .soundType('sand')
+    .hardness(1)
+    .resistance(1)
+    .tagBlock('forge:ores')
+    .tagBlock('minecraft:mineable/shovel')
+    .tagBlock('minecraft:needs_wood_tool')
+    .tagBlock('forge:dusts')
+    .tagBlock('forge:sawdust')
 })
 
 
