@@ -103,14 +103,18 @@ ServerEvents.recipes(event => {
 
   event.shapeless('kubejs:sawdust_block', ['mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust']).id('bamsy:sawdust_to_sawdust_block_bamsy');
   event.shapeless('9x mekanism:sawdust', ['kubejs:sawdust_block']).id('bamsy:sawdust_block_to_sawdust_bamsy');
+
+  event.shapeless('kubejs:charcoal_dust_block', ['mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal', 'mekanism:dust_charcoal']).id('bamsy:charcoaldust_to_charcoaldust_block_bamsy');
+  event.shapeless('9x mekanism:dust_charcoal', ['kubejs:charcoal_dust_block']).id('bamsy:charcoaldust_block_to_charcoaldust_bamsy');
 });
 ServerEvents.recipes(event => {
   event.shaped('64x kubejs:toilet_paper', ['AAA', 'ABA', 'AAA'], { A: 'minecraft:paper', B: '#minecraft:logs' }).id('bamsy:toilet_paper_craft');
   event.shaped('64x kubejs:bloody_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:redstone', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:bloody_toilet_paper_craft');
   event.shaped('64x kubejs:slimy_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:slime_ball', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:slimy_toilet_paper_craft');
 
-  event.recipes.mekanismSawing('quark:stick_block', '9x minecraft:stick', Item.of('3x mekanism:sawdust').withChance(0.25));
+  event.recipes.mekanismSawing('quark:stick_block', '9x mekanism:sawdust', Item.of('3x mekanism:sawdust').withChance(0.25));
   event.recipes.mekanismEnriching('9x mekanism:dust_charcoal', 'kubejs:sawdust_block');
+  event.recipes.mekanismEnriching('9x minecraft:charcoal', 'kubejs:charcoal_dust_block');
 });
 
 ServerEvents.recipes(event => {

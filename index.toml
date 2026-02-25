@@ -33,6 +33,10 @@ file = "kubejs/assets/kubejs/textures/block/block_book_up.png"
 hash = "495943f85c93321a7526e3e60da80d934b8886d9f6436a640e288d3b2385f613"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/charcoal_dust_block.png"
+hash = "f134fc877ca19daea0151b238e69ed9c751f102f5676cf641487ad35f0cdd6b3"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/sawdust_block.png"
 hash = "dc276fb238b3efae6c75968d889e88077d0e4ff0f203248647891a1bf28e76a4"
 
@@ -62,11 +66,11 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "e2e88bc9bc350f2d7a71c8a06f8e0e9d3a91b833586a456830d04a64f50ce9ed"
+hash = "0f742a299063473755678f4815dfcb646ff545a47125e3e731be9b5f3ca4d73a"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "58856bed2f8bc37e10553f4fc80ce1ded4646833c83bec3d6a724bfcc47f5a31"
+hash = "2360905f5381f6fbc4c6d0faea1a2086f5a7febb427e35d0bf8bc8ac0849f707"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
