@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
   // --- Recipes ---
   event.remove({id: 'everycomp:mcf/croptopia/cinnamon_hedge'})
   event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_acacia_hedge'})
-  event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_azalea_hedge'})   
+  event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_azalea_hedge'})
   event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_birch_hedge'})
   event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_cherry_hedge'})
   event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_cocoa_hedge'})
@@ -42,7 +42,7 @@ ServerEvents.recipes(event => {
   event.remove({id: 'everycomp:mcf/dense_dynamictrees/dense_spruce_hedge'})
   event.remove({id: 'everycomp:q/croptopia/cinnamon_hedge'})
   event.remove({id: 'everycomp:q/dense_dynamictrees/dense_acacia_hedge'})
-  event.remove({id: 'everycomp:q/dense_dynamictrees/dense_azalea_hedge'})   
+  event.remove({id: 'everycomp:q/dense_dynamictrees/dense_azalea_hedge'})
   event.remove({id: 'everycomp:q/dense_dynamictrees/dense_birch_hedge'})
   event.remove({id: 'everycomp:q/dense_dynamictrees/dense_cherry_hedge'})
   event.remove({id: 'everycomp:q/dense_dynamictrees/dense_cocoa_hedge'})
@@ -87,11 +87,11 @@ ServerEvents.recipes(event => {
 ServerEvents.recipes(event => {
   event.recipes.createMixing(
     Fluid.of('irons_spellbooks:common_ink', 500),
-      [
-      '2x minecraft:copper_ingot',
-      Fluid.of('create_enchantment_industry:ink', 250),
-      Fluid.of('create_wizardry:mana', 250)
-      ]
+                             [
+                               '2x minecraft:copper_ingot',
+                             Fluid.of('create_enchantment_industry:ink', 250),
+                             Fluid.of('create_wizardry:mana', 250)
+                             ]
   )
 });
 ServerEvents.recipes(event => {
@@ -100,8 +100,6 @@ ServerEvents.recipes(event => {
 
   event.shapeless('kubejs:book_block', ['minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book', 'minecraft:book']).id('bamsy:books_to_block_bamsy');
   event.shapeless('9x minecraft:book', ['kubejs:book_block']).id('bamsy:book_block_to_books_bamsy');
-
-  event.recipes.mekanismSawing('quark:stick_block', '9x mekanism:sawdust', Item.of('3x mekanism:sawdust').withChance(0.5));
 
   event.shapeless('kubejs:sawdust_block', ['mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust', 'mekanism:sawdust']).id('bamsy:sawdust_to_sawdust_block_bamsy');
   event.shapeless('9x mekanism:sawdust', ['kubejs:sawdust_block']).id('bamsy:sawdust_block_to_sawdust_bamsy');
@@ -112,8 +110,14 @@ ServerEvents.recipes(event => {
   event.shaped('64x kubejs:slimy_toilet_paper', ['AAA', 'BCB', 'BBB'], { A: 'minecraft:slime_ball', B: 'minecraft:paper', C: '#minecraft:logs' }).id('bamsy:slimy_toilet_paper_craft');
 
   event.recipes.mekanismSawing('quark:stick_block', '9x minecraft:stick', Item.of('3x mekanism:sawdust').withChance(0.25));
+  event.recipes.mekanismEnriching('9x mekanism:dust_charcoal', 'kubejs:sawdust_block');
 });
 
+ServerEvents.recipes(event => {
+  event.remove({output: 'vinery:grapevine_stem'})
+
+  event.shaped('4x vinery:grapevine_stem', ['A', 'A', 'A'], { A: '#minecraft:logs' }).id('bamsy:grapevine_stem_bamsy');
+});
 LootJS.modifiers((event) => {
   event.addBlockLootModifier("kubejs:arcane_essence_ore").removeLoot("kubejs:arcane_essence_ore").addLoot(LootEntry.of("kubejs:arcane_shard").limitCount([3, 5])).applyOreBonus("minecraft:fortune");
 });

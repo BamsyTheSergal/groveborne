@@ -38,7 +38,7 @@ StartupEvents.registry('block', event => {
     .tagBlock('minecraft:needs_wood_tool')
     .tagBlock('forge:storage_blocks')
     event.create('sawdust_block')
-    .displayName('Block of sawdust')
+    .displayName('Block of Sawdust')
     .soundType('sand')
     .hardness(1)
     .resistance(1)
