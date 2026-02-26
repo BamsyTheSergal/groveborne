@@ -1,0 +1,13 @@
+name = "Medieval Embroidery"
+filename = "Medieval_Embroidery-1.20.1-0.7.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8a478f94fcaae42ef427d3943b83b4e0adaf769"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6960891
+project-id = 986913

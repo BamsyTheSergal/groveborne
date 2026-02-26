@@ -1,13 +1,13 @@
-name = "Geckolib"
+name = "GeckoLib"
 filename = "geckolib-forge-1.20.1-4.8.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar"
-hash-format = "sha512"
-hash = "938f1f703fa77a2e05aad4afa1052260521badee006d29529d0ed4e2d3fbaae47c9ffbc95b5c4982c3386e7e7d6592c9c79df31597cc8238db41fc0b1e431db6"
+hash-format = "sha1"
+hash = "5428765c6c2e2135da6ee01f2f0478fa0db6aee7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "8BmcQJ2H"
-version = "HVdLnQMI"
+[update.curseforge]
+file-id = 7553267
+project-id = 388172

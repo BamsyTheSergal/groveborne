@@ -1,0 +1,13 @@
+name = "Medieval Structures"
+filename = "medieval_structures-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a01e5ec31e46caaa6fa4f68ef7995a8cd15bcea8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7151993
+project-id = 1352794

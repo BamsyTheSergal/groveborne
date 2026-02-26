@@ -66,7 +66,7 @@ hash = "0fb33693211c73f213b6618ef6bea8e4b834ecdfb918158f7f1fee61864b48f3"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "0f742a299063473755678f4815dfcb646ff545a47125e3e731be9b5f3ca4d73a"
+hash = "446e78b13cca4bdc25438ddf85e1bfc88a62b83297b58dbedcf65e626dd0561b"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -518,6 +518,11 @@ hash = "158467a392875eef3c1eb6cf164c407ec872d6f2f169566e2ca88eadef0764d7"
 metafile = true
 
 [[files]]
+file = "mods/evolved-mekanism.pw.toml"
+hash = "7b2c5568df1d39cdee6494b31f306142f67cc9abca664384a65973a38b497ebd"
+metafile = true
+
+[[files]]
 file = "mods/excavated-variants.pw.toml"
 hash = "8286c4333edcf81683cedbad6f70530efb2f78c80f9bf98657976fb5c1834539"
 metafile = true
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
 
 [[files]]
@@ -635,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "4e9a8e9192b8a65bbb1dbb50b2b8bf51cc09c6d8be2bc75a3430b5695c1fa399"
+metafile = true
+
+[[files]]
+file = "mods/iglee-library.pw.toml"
+hash = "47f5a531452dbd8f09b44727a76d417d57a26918dd39daaca0c266ac072525d3"
 metafile = true
 
 [[files]]
@@ -838,6 +848,11 @@ hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
+file = "mods/medieval-embroidery.pw.toml"
+hash = "b1c275cf5187496e706afaac97f368a18219fc1fcf7269a4f991126c3482cf8c"
+metafile = true
+
+[[files]]
 file = "mods/medieval-paintings.pw.toml"
 hash = "40576231f78702615e914e7d357fcc6cf6e7607d18dd7366bba9061e6442c50e"
 metafile = true
@@ -845,6 +860,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-siege-machines.pw.toml"
 hash = "8f8597afd3d129561c00996d8960e035fc297b717c4a3858b65595e17c9c98a1"
+metafile = true
+
+[[files]]
+file = "mods/medieval-structures.pw.toml"
+hash = "048dcac50765b6769b59cc428625908e5794d68520112b2dadf9f81c3ae37151"
 metafile = true
 
 [[files]]
@@ -1034,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
@@ -1055,6 +1075,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
+metafile = true
+
+[[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "562fd159f33564daf4f81a313e3df5272678bf0824192513cac6e67656abf681"
 metafile = true
 
 [[files]]
