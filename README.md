@@ -1,1 +1,274 @@
-# if u read this u like kissing sergals
+- [Addons Lib](https://www.curseforge.com/minecraft/mc-mods/addonslib)
+- Adds medieval siege machines
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+- Amendments
+- Apotheosis
+- Apothic Attributes
+- Apothic Curios
+- [AppleSkin](https://github.com/squeek502/AppleSkin)
+- Architectury
+- Art Of Forging
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- Attributizer
+- [BOZOID](https://discord.gg/GZjtAn3F6W)
+- [BadMobs](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
+- BaguetteLib
+- [Balm](https://mods.twelveiterations.com/)
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Block Swap](https://github.com/CorgiTaco/Block-Swap/)
+- [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+- [BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [BotanyPotsTiers](https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers)
+- [BotanyTrees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+- [Building Gadgets 2](https://github.com/Direwolf20-MC/BuildingGadgets2)
+- Building Wands
+- [Butchery](https://discord.gg/4jyFpT8jEk)
+- [Carry On](https://tschipp.ch)
+- Caupona
+- Chat Heads
+- [Chipped](https://modrinth.com/mod/chipped)
+- [Citadel](https://github.com/Alex-the-666/Citadel)
+- [Cloth Config v10 API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Cobweb](https://github.com/crystal-nest/cobweb/tree/1.20.1)
+- [Compressium](http://dinnerbeef.com)
+- [Configured](https://mrcrayfish.com/mods?id=configured)
+- Connector\-1\.0\.0\-beta\.48\+1\.20\.1
+- [Controlling](https://minecraft.curseforge.com/projects/controlling)
+- [CookingForBlockheads](https://mods.twelveiterations.com/mc/cookingforblockheads)
+- CosmeticArmorReworked
+- Crate Delight
+- Crate Delight: Croptopia
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- Create Enchantment Industry
+- Create O' Plenty
+- Create Slice & Dice
+- Create Ultimine
+- Create: Central Kitchen
+- [Create: Copycats\+](https://github.com/copycats-plus/copycats)
+- [Create: Easy Structures](https://discord.gg/m-productions-1114679331923435620)
+- [Create: Jetpack Curios](https://www.curseforge.com/members/robinfrt/projects)
+- Create: Wizardry
+- [CreativeCore](https://modrinth.com/mod/creativecore)
+- Croptopia
+- [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models)
+- Data Anchor
+- Dawn Of Time
+- [Days in the Middle Ages](https://www.curseforge.com/minecraft/mc-mods/minecraft-middle-ages)
+- [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful)
+- [Dense Trees](https://www.curseforge.com/minecraft/mc-mods/dense-trees)
+- Display Delight
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Dramatic Doors \(QuiFabrge\)](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors)
+- Dungeon Crawl
+- [Dynamic Asset Generator](https://github.com/lukebemish/DynamicAssetGenerator)
+- [Dynamic Trees](http://minecraft.curseforge.com/projects/dynamictrees)
+- [Dynamic Trees Plus](http://minecraft.curseforge.com/projects/dynamictreesplus)
+- [Dynamic Trees for Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/dtbop)
+- [Dynamic Trees for Croptopia](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-croptopia-new)
+- [Dynamic Trees for Dense Trees](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-dense-trees)
+- [Dynamic Trees for Quark](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
+- Dynamic Trees for Terralith
+- [Dynamic Trees for Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-tinkers-construct)
+- EMI
+- [EMI Loot](https://github.com/fzzyhmstrs/EMI_loot)
+- [EMI Ores](https://modrinth.com/mod/emi-ores)
+- EdivadLib
+- Embeddium
+- [EntityCulling](https://modrinth.com/mod/entityculling)
+- EntityJS
+- [Epic Knights: Addon](https://www.curseforge.com/minecraft/mc-mods/epic-knights-addon)
+- [Epic Knights: Antique Legacy](https://github.com/Magistu/Epic-Knights-Antique-Legacy)
+- [Epic Knights: Slavic Armory](https://www.curseforge.com/minecraft/mc-mods/epic-knights-slavic-armory)
+- [Epic\-Knights: Shields, Armor and Weapons](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons)
+- [Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat)
+- Evolved Mekanism
+- [Excavated Variants](https://github.com/lukebemish/ExcavatedVariants)
+- [Explorer's Compass](https://github.com/MattCzyr/ExplorersCompass)
+- [Explorify](https://modrinth.com/datapack/explorify)
+- ExtraStorage
+- FTB Essentials
+- FTB Library
+- FTB Quests
+- FTB Teams
+- FTB Ultimine
+- [Farmer's Croptopia](https://github.com/ACCBDD/farmers-croptopia)
+- [Farmer's Delight](https://github.com/vectorwing/FarmersDelight)
+- [FarmersStructures](http://discord.gg/8SsB8ar)
+- Fast Suite
+- Ferrite Core
+- [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
+- Forgified Fabric API
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [Framework](https://mrcrayfish.com/mods?id=framework)
+- [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
+- Fzzy Config
+- [Game Menu Remove GFARB](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb)
+- [GeckoLib 4](http://geckolib.com/)
+- [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore)
+- Gravel Ores
+- [Gravestone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- Iglee's Library
+- ImmediatelyFast
+- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/)
+- [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
+- Item Production Lib
+- [Jade](https://minecraft.curseforge.com/projects/jade)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- JourneyMap\-Teams
+- [Journeymap](http://journeymap.info)
+- [Json Things](https://github.com/gigaherz/JsonThings)
+- [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences)
+- KubeJS
+- KubeJS Create
+- KubeJS Mekanism
+- KubejsBotanyPots
+- Large Meals
+- [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)
+- [LaserIO](https://github.com/Direwolf20-MC/LaserIO)
+- [Little Joys](https://mods.twelveiterations.com/mc/little-joys)
+- Load My F\*\*\*ing Tags
+- LootJS
+- [Lootr](https://minecraft.curseforge.com/projects/lootr)
+- [MIMI Mod](https://github.com/tofodroid/mimi-mod)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
+- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Macaw's Stairs and Balconies](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Mantle](https://minecraft.curseforge.com/projects/mantle)
+- Medieval Embroidery
+- Medieval Paintings
+- [Medieval Structures](https://mcreator.net)
+- [Mekanism](https://aidancbrady.com/mekanism/)
+- [Mekanism: Generators](https://aidancbrady.com/mekanism/)
+- [Mekanism: Tools](https://aidancbrady.com/mekanism/)
+- Memory Leak Fix
+- MidnightLib
+- [Mining Gadgets](https://github.com/Direwolf20-MC/MiningGadgets/)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- Moonlight Library
+- More Delight
+- [Mouse Tweaks](https://minecraft.curseforge.com/projects/mouse-tweaks)
+- MyServerIsCompatible
+- [Nature's Compass](https://github.com/MattCzyr/NaturesCompass)
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+- [No Telemetry](https://github.com/kb-1000/no-telemetry)
+- Nomadic Tents
+- Not Enough Recipe Book
+- OctoLib
+- [Overweight Farming](https://discord.com/invite/sA858vGruu)
+- PacketFixer
+- [Pam's Harvest Craft 2 Nerf](https://modrinth.com/mod/pams-harvestcraft-2-nerf)
+- Pam's HarvestCraft 2 \- Crops
+- Pam's HarvestCraft 2 \- Food Core
+- Pam's HarvestCraft 2 \- Food Extended
+- Pam's HarvestCraft 2 \- Trees
+- Passive Skill Tree
+- Patchouli
+- [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
+- Placebo
+- Player Animator
+- Player Collars
+- Polymorph
+- [Powah](https://www.curseforge.com/minecraft/mc-mods/powah)
+- Quark
+- [QuarryPlus](https://github.com/Kotori316/QuarryPlus)
+- [RAR\-Compat](https://www.curseforge.com/minecraft/mc-mods/rar-compat)
+- [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+- Rechiseled: Chipped
+- [Rechiseled: Create](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+- Recruits Siege Compatibility
+- [Refined Storage](https://refinedmods.com/refined-storage)
+- [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod)
+- Resourceful Lib
+- Rhino
+- Saturation Plus
+- ScalableCatsForce\-3\.3\.1\-build\-0\-with\-library
+- [Searchables](https://minecraft.curseforge.com/projects/searchables)
+- Seed Delight
+- Simple Inventory Sorter
+- [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets)
+- [Snad](https://github.com/RoBrit/Snad)
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- [Soul Fire'd](https://github.com/crystal-nest/soul-fire-d/tree/1.20.1)
+- [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Stone Zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)
+- [Structory](https://www.stardustlabs.net/)
+- [Suggestion Tweaker](https://www.curseforge.com/minecraft/mc-mods/suggestion-tweaker)
+- [SuperMartijn642's Config Library](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
+- [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+- Supplementaries
+- [TCIntegrations](https://github.com/wendall911/TCIntegrations)
+- [TConJEI](https://www.curseforge.com/minecraft/mc-mods/tconjei)
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
+- [Terralith](https://www.stardustlabs.net/)
+- Tetra's Delight
+- Tetranomicon
+- Tinker's Tool Leveling
+- Tinkers Construct: Emergence
+- Tinkers Jewelry EX
+- Tinkers' Battle Spades
+- [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Tinkers' Delight](https://www.curseforge.com/minecraft/mc-mods/tinker-delight)
+- Tinkers' Jewelry
+- Tinkers' Katanas
+- Tinkers' Rapier
+- Tinkers' Things
+- Tinkers' Wood
+- [TooManyRecipeViewers](https://legacy.curseforge.com/minecraft/mc-mods/tmrv)
+- Torchmaster
+- [TrampleNoMore](https://www.curseforge.com/minecraft/mc-mods/trample-no-more)
+- [TrashSlot](https://mods.twelveiterations.com/mc/trashslot)
+- Twigs
+- Universal Sawmill
+- Unusual Prehistory 2
+- [Valarian Conquest](https://mcreator.net)
+- Valhelsia Core
+- Valhelsia Furniture
+- [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)
+- [Vampirism](https://vampirism.dev)
+- [Via Romana](https://github.com/RasaNovum/Via_Romana)
+- [Villager Recruits Mod](https://modrinth.com/mod/villager-recruits/versions)
+- [Visual Recipe Editor](https://krupicova12kase.github.io/Documentation/)
+- [WITS](https://www.curseforge.com/minecraft/mc-mods/wits)
+- [Werewolves](https://werewolves.dev)
+- Withering Boon
+- [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+- [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [YUNG's Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island)
+- [YUNG's Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses)
+- [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
+- [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+- Yeetus Experimentus
+- Zeta
+- \[Let's Do\] API
+- \[Let's Do\] Brewery
+- \[Let's Do\] Vinery
+- emi\-letsdo\-compat
+- gravestonecurioscompat
+- kotlinforforge\-4\.12\.0\-all
+- mutil
+- spark
+- tconplanner
+- tetra
+- tetracelium
+- unusual\_spawning 1\.2\.1
