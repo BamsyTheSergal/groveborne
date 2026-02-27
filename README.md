@@ -35,7 +35,6 @@
 - [Cobweb](https://github.com/crystal-nest/cobweb/tree/1.20.1)
 - [Compressium](http://dinnerbeef.com)
 - [Configured](https://mrcrayfish.com/mods?id=configured)
-- Connector\-1\.0\.0\-beta\.48\+1\.20\.1
 - [Controlling](https://minecraft.curseforge.com/projects/controlling)
 - [CookingForBlockheads](https://mods.twelveiterations.com/mc/cookingforblockheads)
 - CosmeticArmorReworked
